@@ -1,5 +1,5 @@
-# HacktoberFest
-Welcome to the Dev.HFest I am  excited to have you contribute to this project, whether it's through code or non-code contributions.
+# OPENDEV
+Welcome to the OpenDev I am  excited to have you contribute to this project, whether it's through code or non-code contributions.
  
 ## What is Hacktoberfest?
 Hacktoberfest is an annual event that encourages open-source contributions during the month of October. By participating, you can earn cool swag and get involved in the open-source community.
@@ -40,6 +40,6 @@ Thank you for contributing to Hacktoberfest! Your contributions help make open s
 ### Happy hacking!
 
 ## Our Top Contributors 
-<p align="center"><a href="https://github.com/debrajrout/Dev.HFest/graphs/contributors">
+<p align="center"><a href="https://github.com/debrajrout/opendev/graphs/contributors">
 
 </a></p>
